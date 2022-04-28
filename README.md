@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java,C(Basic),Html,Css,Python(Intermediate),JavaScript.**
 
-- 👨‍💻 All of my projects are available at [shyampersonalportfolio.xyz](shyampersonalportfolio.xyz)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Html,Css,Java,C(Basic),Python,Javascript.**
 
